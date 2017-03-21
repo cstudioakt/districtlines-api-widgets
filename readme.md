@@ -1,3 +1,10 @@
+## Generator and Previewer
+
+Go to the link below to view the Generator and previewer:
+
+[https://districtlines.github.io/districtlines-api-widgets/iframe-example.html
+](https://districtlines.github.io/districtlines-api-widgets/iframe-example.html)
+
 ## Basic Usage
 
 Paste the code below anywhere between the `<body>` and `</body>` tags on your website.
